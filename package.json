@@ -1,0 +1,19 @@
+{
+  "name": "affeba-app",
+  "version": "1.0.0",
+  "description": "Gestion de Ligas (AFFEBA Mar del Plata)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matiassimone/AFFEBA-App.git"
+  },
+  "author": "Matias Simone",
+  "license": "SEE LICENSE IN GITHUB REPOSITORY",
+  "bugs": {
+    "url": "https://github.com/Matiassimone/AFFEBA-App/issues"
+  },
+  "homepage": "https://github.com/Matiassimone/AFFEBA-App#readme"
+}
