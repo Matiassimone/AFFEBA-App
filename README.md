@@ -1,6 +1,6 @@
 # affeba-app
 
-> Gestion de Ligas (AFFEBA Mar del Plata)
+> Gestion de Ligas (AFFEBA)
 
 #### Build Setup
 
@@ -14,9 +14,6 @@ npm run dev
 # build electron application for production
 npm run build
 
-
-# lint all JS/Vue component files in `src/`
-npm run lint
 
 ```
 
